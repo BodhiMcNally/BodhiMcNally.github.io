@@ -4,13 +4,12 @@
 
 ## Education
 - **Bachelor of Science** (Data Science and Genetics & Genomics), The University of Sydney (_2022 – 2024_)  
-  - GPA: 6.85 / 7.0 | WAM: 88.2  
   - **Dalyell Scholar**, **Dean’s Entry Scholarship**, **Science Top of the State Scholarship**, **Sydney Scholars Award**  
   - **Public Education Foundation Award**  
 
 ## Work Experience
 
-**Key Account Manager (MAVIRET® – AbbVie) @ DKSH Healthcare Australia**  
+**Key Account Manager (Virology - AbbVie) @ DKSH Healthcare Australia**  
 _Jan 2025 – Present_  
 - Drive engagement with healthcare professionals to promote a curative treatment for chronic hepatitis C.  
 - Lead GP detailing, patient recall, and prescriber targeting to drive uptake of MAVIRET®.  
@@ -52,6 +51,7 @@ _Oct 2023 – Oct 2024_
 - *Data Wrangling for Biomedical Applications* – Winter Intensive OLE Workshop (2024)  
 - *Scientific Communication in Practice* – SciSoc Student Speaker Series (2024)  
 - *Using Data to Inform Engagement Strategies* – DKSH Internal Training Series (2025) 
+
 ---
 
 ## Projects
