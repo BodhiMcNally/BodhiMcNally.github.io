@@ -14,7 +14,7 @@
 **Key Account Manager (Virology - AbbVie) @ DKSH Healthcare Australia**  
 _Jan 2025 – Present_  
 - Drive engagement with healthcare professionals to promote a curative treatment for chronic hepatitis C.  
-- Lead GP detailing, patient recall, and prescriber targeting to drive uptake of MAVIRET®.  
+- Lead GP detailing, patient recall and prescriber targeting to drive uptake.
 - Leverage xBERT and Veeva CRM to optimise outreach and track engagement across Australia.  
 - Ensure Medicines Australia compliance and alignment with cross-functional strategies.
 
@@ -47,12 +47,6 @@ _Oct 2023 – Oct 2024_
 - 99.75 ATAR  
 - First in NSW HSC Investigating Science  
 - 2022 STANSW Young Scientist Award  
-
-## Talks & Presentations
-- *Regression in Real-World Contexts* – DATA1001 Guest Lecture (2024)  
-- *Data Wrangling for Biomedical Applications* – Winter Intensive OLE Workshop (2024)  
-- *Scientific Communication in Practice* – SciSoc Student Speaker Series (2024)  
-- *Using Data to Inform Engagement Strategies* – DKSH Internal Training Series (2025) 
 
 ---
 
