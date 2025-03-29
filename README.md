@@ -2,6 +2,8 @@
 
 #### Technical Skills: Python, R, SQL, Tableau, PowerBI, HTML, CSS, Advanced Excel
 
+[Resume](https://github.com/BodhiMcNally/bodhi-resume/blob/main/resume.pdf)
+
 ## Education
 - **Bachelor of Science** (Data Science and Genetics & Genomics), The University of Sydney (_2022 – 2024_)  
   - **Dalyell Scholar**, **Dean’s Entry Scholarship**, **Science Top of the State Scholarship**, **Sydney Scholars Award**  
@@ -56,7 +58,7 @@ _Oct 2023 – Oct 2024_
 
 ## Projects
 
-### Multi-Omics Analysis of E. coli Adaptation to Blood Environments  
+### [Multi-Omics Analysis of E. coli Adaptation to Blood Environments](https://github.com/BodhiMcNally/ecoli_multiomics)  
 **Tools:** R, ggplot2, MetaboAnalyst, STRINGdb, LC-MS/MS, KEGG, UniProt
 
 This project investigated the adaptive metabolic and proteomic responses of *Escherichia coli* strain B36 when grown in human blood versus nutrient broth, with implications for sepsis research.
@@ -68,7 +70,7 @@ This project investigated the adaptive metabolic and proteomic responses of *Esc
 - Integrated findings across omics layers showed coordinated regulation of energy production (TCA & glyoxylate shunt), chemotaxis (CheA & aspartate), and adaptive nutrient acquisition (LacZ & galactose).
 - These changes reflect metabolic flexibility and immune evasion strategies relevant to **pathogenicity in bloodstream infections**.
 
-### CRISPR-Cas9 Editing of CCR5: Sequence, Structure, and Bioethical Analysis  
+### [CRISPR-Cas9 Editing of CCR5: Sequence, Structure, and Bioethical Analysis](https://github.com/BodhiMcNally/crispr_cas9_mediated_ccr5/blob/main/GEGE2901_Advanced_Project_Paper.pdf)  
 **Tools:** Geneious Prime, TMHMM, NCBI, Sequence Alignment, Protein Translation, Bioethics Literature Review
 
 This project explored the molecular and ethical dimensions of CRISPR-Cas9 gene editing in the controversial 2018 experiment by Dr He Jiankui. The study focused on editing the **CCR5 gene**, which encodes a receptor involved in HIV entry into CD4+ T cells.
@@ -80,7 +82,7 @@ This project explored the molecular and ethical dimensions of CRISPR-Cas9 gene e
 - Evaluated the **gene repair mechanisms** (NHEJ vs HDR) used and the resulting indels, frameshifts, and implications for protein function.  
 - Assessed the **ethical justification and scientific validity** of the experiment, discussing off-target effects, unintended phenotypes, and the broader risks of germline gene editing.
 
-### Urban Resource Equity in Greater Sydney: A Multi-Metric SA2 Ranking Model  
+### [Urban Resource Equity in Greater Sydney: A Multi-Metric SA2 Ranking Model](https://github.com/BodhiMcNally/urban_resource_equity_sydney/blob/main/DATA2901_Assignment.pdf)  
 **Tools:** Python (Pandas, GeoPandas, Scikit-learn), PostgreSQL, Kepler.gl, PCA, Rank-Based Scoring, Spatial Analysis
 
 As part of a group project for DATA2901, we developed a scoring model to evaluate how well-resourced different SA2 regions in Greater Sydney are across key service domains.
@@ -94,8 +96,8 @@ As part of a group project for DATA2901, we developed a scoring model to evaluat
 - Incorporated **income correlation analysis**, finding a weak positive relationship (r = 0.293) between median income and resource access.
 - Addressed **urban planning implications**, such as spatial mismatch and equity of infrastructure in suburban areas.
 
-### Predicting Alcohol Content in Vinho Verde Wines  
-**Tools:** R, Stepwise Regression, PCA, Cross-Validation, Variable Selection (mplot), Exploratory Data Analysis
+### [Predicting Alcohol Content in Vinho Verde Wines](https://github.com/BodhiMcNally/vinho_verde/blob/main/annotated-DATA2902-wine-and-wellbeing-report-1.pdf)  
+**Tools:** R, Stepwise Regression, PCA, Cross-Validation, [R Shiny](https://bobtheboulder.shinyapps.io/VinhoPredict/), Variable Selection (`mplot`)
 
 This project aimed to improve the precision of alcohol content labelling on Portuguese white Vinho Verde wines using data from 4,898 samples. Under Australian regulations, alcohol must be labelled within ±1.5% ABV, motivating our goal to predict alcohol content using 11 physicochemical properties.
 
@@ -106,7 +108,7 @@ This project aimed to improve the precision of alcohol content labelling on Port
 - Validated model performance using **10-fold cross-validation**, comparing full and reduced models based on **MAE** and **R²**. The reduced model was chosen to minimise overfitting.
 - Discussed ethical and practical considerations, including the risk of underreporting and importance of compliance with national labelling standards.
 
-### Assessing Coral Recovery and Reassembly in the Great Barrier Reef  
+### [Assessing Coral Recovery and Reassembly in the Great Barrier Reef](https://github.com/BodhiMcNally/gbr_recovery/tree/main)  
 **Client:** Dr. Ana Paula da Silva  
 **Course:** STAT3926 – Statistical Consulting  
 **Date:** June 2024  
@@ -125,7 +127,7 @@ We used a combination of:
 
 This multi-model approach revealed the complexity of coral recovery and highlighted the need for incorporating broader environmental and biological factors in resilience assessments.
 
-### Forecasting Study Load at the University of Sydney  
+### [Forecasting Study Load at the University of Sydney](https://github.com/BodhiMcNally/usyd_revenue_forecast/tree/main)  
 **Client:** Susie Chee  
 **Course:** STAT3926/STAT4026 – Statistical Consulting  
 **Date:** May 2024  
@@ -143,7 +145,7 @@ A series of faculty-specific linear models were built, each incorporating predic
 
 This project demonstrates the use of predictive modelling to support university-level financial and enrolment planning in a changing policy landscape.
 
-### Enhancing Modelling Approaches for Analysing *Chalinolobus gouldii* Vocalisation Behaviour  
+### [Enhancing Modelling Approaches for Analysing *Chalinolobus gouldii* Vocalisation Behaviour](https://github.com/BodhiMcNally/modelling_chalinolobus_gouldii_vocalisation/tree/main)  
 **Client:** Magic Mei-Ting Kao  
 **Course:** STAT3926/STAT4026 – Statistical Consulting  
 **Date:** May 2024  
