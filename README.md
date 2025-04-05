@@ -1,4 +1,4 @@
-# Pharmaceutical Sales Analyst | Data Scientist | Educator
+# Pharmaceutical Analyst | Data Scientist | Educator
 
 #### Technical Skills: Python, R, SQL, Tableau, PowerBI, HTML, CSS, Advanced Excel
 
@@ -11,37 +11,65 @@
 
 ## Work Experience
 
-**Key Account Manager (Virology - AbbVie) @ DKSH Healthcare Australia**  
-_Jan 2025 – Present_  
-- Drive engagement with healthcare professionals to promote a curative treatment for chronic hepatitis C.  
-- Lead GP detailing, patient recall and prescriber targeting to drive uptake.
-- Leverage xBERT and Veeva CRM to optimise outreach and track engagement across Australia.  
-- Ensure Medicines Australia compliance and alignment with cross-functional strategies.
+### Junior Sales Force Effectiveness Analyst  
+**AstraZeneca**, Macquarie Park, NSW  
+_Apr 2025 – Present_  
+- Support the maintenance and optimisation of downstream systems including territory structures, sales market structures and position management, ensuring accuracy and alignment with commercial policy.  
+- Act as a key point of contact for the business on field force data and performance insights, providing timely and actionable reporting across national and regional sales teams.  
+- Validate and audit data pipelines to ensure system integrity, collaborating closely with internal stakeholders in Commercial Effectiveness, Sales and Data & Analytics.  
+- Deliver training and ongoing support to internal stakeholders to improve understanding and utilisation of SFE systems and reporting tools.  
+- Assist in the development and refinement of automated reports, dashboards and processes to support continuous improvement and efficiency across the sales function.  
 
-**Program Coordinator @ Partizan Health (now DKSH Healthcare)**  
-_Jul 2024 – Dec 2024_  
-- Managed 500+ patient interactions for Novo Nordisk’s WegovyCare program via 3CX, email, and Chatlio.  
-- Handled patient records in a secure CRM and reported pharmacovigilance events with 100% accuracy.  
-- Liaised with pharmacists, GPs, and specialists to support treatment adherence and patient care.
-
-**Casual Academic @ The University of Sydney**  
+### Casual Academic  
+**School of Mathematics and Statistics**, University of Sydney  
 _Jan 2024 – Present_  
-- Taught tutorials and labs across DATA1001 and Statistics units for over 250 first-year students.  
-- Delivered sessions on applied analytics, regression, and data wrangling.  
-- Winter Intensive Instructor for Data Wrangling OLE (2024).  
-- Achieved 92% positive student feedback and contributed to curriculum delivery and improvement.
+- Led engaging tutorials and workshops for over 250 undergraduate students in DATA1001, supporting foundational learning in data wrangling, probability theory, visualisation and hypothesis testing.  
+- Developed and facilitated hands-on activities using real-world datasets to enhance conceptual understanding and practical application of statistical and programming principles.  
+- Assessed major student projects with a focus on code readability, reproducibility, and analytical rigour, delivering clear and constructive feedback to support student learning and growth.  
+- Mentored junior demonstrators in teaching strategies, marking practices and classroom management – several of whom successfully progressed to tutor roles.  
+- Collaborated closely with the unit coordinator, lecturers and fellow tutors to maintain alignment across marking rubrics, lesson pacing and student support strategies.  
 
-**President @ Sydney University Science Society (SciSoc)**  
+### Key Account Manager (on behalf of AbbVie)  
+**DKSH Healthcare Australia**, Sydney, NSW  
+_Jan 2025 – Mar 2025_  
+- Promoted AbbVie’s curative hepatitis C treatment across Australia, driving patient recall and prescribing confidence among primary care HCPs.  
+- Increased HCP connect rate by 163%, generating $238,000 in Q1 revenue — the highest ever achieved by a virtual sales representative at DKSH.  
+- Led recall audit initiatives, training in-field sales team members in MedicalDirector and Best Practice software to identify at-risk patients.  
+- Used xBERT and Veeva CRM platforms to manage HCP interactions, track engagement and optimise outreach strategies.  
+- Strategically prioritised DNSR clinics, targeted ‘unicorn’ clinics and refined affinity and potential profiling to maximise field efficiency and coverage.  
+- Generated and qualified over 50 high-value leads, streamlining handover to the in-field team and significantly boosting national prescribing opportunities.  
+- Built strong rapport with prescribers, enhancing trust, education, and patient screening for hepatitis C.  
+- Received the 2025 DKSH Inspire Award in recognition of exceptional sales performance, innovation and collaborative excellence.  
+
+### Program Coordinator (on behalf of Novo Nordisk)  
+**DKSH Healthcare Australia**  
+_Jul 2024 – Dec 2024_  
+- Supported over 500 patient interactions via email, inbound calls using 3CX, and Chatlio live chat for Novo Nordisk’s WegovyCare program, ensuring exceptional service and timely resolution of inquiries.  
+- Utilised a CRM system to manage patient records, communications, and workflow, ensuring continuity and quality of care.  
+- Conducted 100% accurate pharmacovigilance reporting to the Therapeutic Goods Administration.  
+- Communicated directly with healthcare professionals, including pharmacists, general practitioners and specialists, building rapport to support patient care and ensure treatment adherence.  
+- Ensured strict adherence to patient confidentiality and handling of sensitive medical information in compliance with the Privacy Act and Australian Privacy Principles.  
+- Collaborated with cross-functional teams to implement process improvements and contributed to the updated Standard Operating Procedure, streamlining program operations and ensuring consistency in patient support delivery.  
+
+### President  
+**Sydney University Science Society**, University of Sydney  
 _Oct 2023 – Oct 2024_  
-- Led Australia’s largest student society with 3,100+ members.  
-- Managed 30-person team, $176K revenue, and equity programs that supported 100+ students.  
-- Oversaw high-impact events, weekly operations, and long-term strategic governance initiatives.
+- Led the largest student society in Australia, representing over 3,100 students and overseeing an executive team of 15.  
+- Spearheaded a $176,000 operational budget, securing increased base funding from the Faculty of Science and raising $20,000 for equity initiatives, enabling 100+ students to attend high-cost events free of charge.  
+- Established SciSoc’s first-ever Bylaws, introducing policies on equity, environmental sustainability, privacy and treasury governance, ratified by general vote.  
+- Introduced the Asset Purchase Program (APP) to manage long-term infrastructure and improve operational sustainability, now a permanent fixture in funding strategy.  
+- Revitalised SciSoc’s publication portfolio, launching a First Year Guide for Orientation – the first publication in over 20 years – with 2,300+ unique readers.  
+- Directed a comprehensive rebrand of marketing strategy, growing SciSoc’s social media following by 3,000+ and reactivating LinkedIn for monthly professional development posts.  
+- Negotiated and delivered new partnerships with RedBull, GradReady and Paratus Clinical, securing both monetary and in-kind sponsorships.  
+- Mentored subcommittee members, several of whom successfully progressed into executive roles, strengthening the society’s internal talent pipeline.  
+- Introduced internal governance reforms to support the amalgamation of smaller societies into Science Society’s structure, improving their financial viability and access to institutional support.  
 
 ## Certifications
-- Medicines Australia Code of Conduct  
+- Medicines Australia CEP 
 - Advanced First Aid and CPR  
 - Mental Health First Aid  
-- Responsible Service of Alcohol  
+- Responsible Service of Alcohol
+- Valid Working With Children Check
 
 ## Awards & Achievements
 - 99.75 ATAR  
