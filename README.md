@@ -31,7 +31,7 @@ _Jan 2024 – Present_
 
 ### Key Account Manager (on behalf of AbbVie)  
 **DKSH Healthcare Australia**, Sydney, NSW  
-_Jan 2025 – Mar 2025_  
+_Jan 2025 – Apr 2025_  
 - Promoted AbbVie’s curative hepatitis C treatment across Australia, driving patient recall and prescribing confidence among primary care HCPs.  
 - Increased HCP connect rate by 163%, generating $238,000 in Q1 revenue — the highest ever achieved by a virtual sales representative at DKSH.  
 - Led recall audit initiatives, training in-field sales team members in MedicalDirector and Best Practice software to identify at-risk patients.  
