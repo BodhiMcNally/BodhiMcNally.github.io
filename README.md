@@ -1,8 +1,8 @@
-# Pharmaceutical Analyst | Data Scientist | Educator
+# Pharmaceutical Sales Force Analyst | Data Scientist | Educator
 
-#### Technical Skills: Python, R, SQL, Tableau, PowerBI, HTML, CSS, Advanced Excel
+#### Technical Skills: R, Python, SQL, Power BI, Power Query, Amazon Redshift, Advanced Excel (PivotTables, Macros), DAX Measures, PostgreSQL, DBeaver
 
-[Resume](https://github.com/BodhiMcNally/bodhi-resume/blob/main/resume.pdf)
+[Resume](https://github.com/BodhiMcNally/bodhi-resume/blob/main/Resume.pdf)
 
 ## Education
 - **Bachelor of Science** (Data Science and Genetics & Genomics), The University of Sydney (_2022 – 2024_)  
@@ -14,11 +14,14 @@
 ### Junior Sales Force Effectiveness Analyst  
 **AstraZeneca**, Macquarie Park, NSW  
 _Apr 2025 – Present_  
-- Support the maintenance and optimisation of downstream systems including territory structures, sales market structures and position management, ensuring accuracy and alignment with commercial policy.  
-- Act as a key point of contact for the business on field force data and performance insights, providing timely and actionable reporting across national and regional sales teams.  
-- Validate and audit data pipelines to ensure system integrity, collaborating closely with internal stakeholders in Commercial Effectiveness, Sales and Data & Analytics.  
-- Deliver training and ongoing support to internal stakeholders to improve understanding and utilisation of SFE systems and reporting tools.  
-- Assist in the development and refinement of automated reports, dashboards and processes to support continuous improvement and efficiency across the sales function.  
+- Act as the central analytics partner to senior commercial leaders, providing timely and strategic insights across sales performance, HCP engagement and executional excellence metrics.  
+- Design, maintain and continuously improve automated dashboards and reporting tools using Power BI, SQL and PowerQuery.  
+- Architect and maintain end-to-end data pipelines using Amazon Redshift for high-volume querying, Python for automated ETL and workflow orchestration and R for statistical modelling.  
+- Own the integrity of commercial data pipelines by validating data sources (e.g. IQVIA, Nostra, Ex-Factory, PBS, Wholesaler) and ensuring consistency across enterprise platforms, informing decision-making for field performance, resourcing and patient access programs.  
+- Support and deliver key commercial initiatives including Sales Targeting, Incentive Design, Kicker Programs and Sales Champion Awards, ensuring structures are analytically grounded and aligned to regional performance goals.  
+- Drive adoption of SFE systems and analytical tools by delivering tailored training and ongoing support to internal stakeholders, enhancing the commercial acumen and digital fluency of field teams and head office personnel alike.  
+- Lead analytical contributions to strategic programs such as lead scoring, microjourney optimisation, customer segmentation, sampling activity and Veeva CRM insights, enabling precision engagement and improved ROI across omnichannel strategies.  
+- Support executive-level initiatives including business planning cycles, customer experience simplification, and meeting effectiveness, using hypothesis-driven reporting and longitudinal metrics to guide strategic refinement.  
 
 ### Casual Academic  
 **School of Mathematics and Statistics**, University of Sydney  
@@ -32,8 +35,7 @@ _Jan 2024 – Present_
 ### Key Account Manager (on behalf of AbbVie)  
 **DKSH Healthcare Australia**, Sydney, NSW  
 _Jan 2025 – Apr 2025_  
-- Promoted AbbVie’s curative hepatitis C treatment across Australia, driving patient recall and prescribing confidence among primary care HCPs.  
-- Increased HCP connect rate by 163%, generating $238,000 in Q1 revenue — the highest ever achieved by a virtual sales representative at DKSH.  
+- Promoted AbbVie’s curative hepatitis C treatment across Australia, driving patient recall and prescribing confidence among primary care HCPs.   
 - Led recall audit initiatives, training in-field sales team members in MedicalDirector and Best Practice software to identify at-risk patients.  
 - Used xBERT and Veeva CRM platforms to manage HCP interactions, track engagement and optimise outreach strategies.  
 - Strategically prioritised DNSR clinics, targeted ‘unicorn’ clinics and refined affinity and potential profiling to maximise field efficiency and coverage.  
