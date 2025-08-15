@@ -1,12 +1,12 @@
-# Pharmaceutical Sales Force Analyst | Data Scientist | Educator
+# Pharmaceutical Sales Force Effectiveness Analyst | Data Scientist | Educator
 
-#### Technical Skills: R, Python, SQL, Power BI, Power Query, Amazon Redshift, Advanced Excel (PivotTables, Macros), DAX Measures, PostgreSQL, DBeaver
+#### Technical Skills: R, Python, SQL, Power BI, Power Query, Amazon Redshift, PostgreSQL, Advanced Excel (PivotTables, Macros/VBA), DAX, AWS, Salesforce, ArcGIS, Tableau, Jira, Confluence, Collibra, Git
 
 [Resume](https://github.com/BodhiMcNally/bodhi-resume/blob/main/Resume.pdf)
 
 ## Education
 - **Bachelor of Science** (Data Science and Genetics & Genomics), The University of Sydney (_2022 – 2024_)  
-  - **Dalyell Scholar**, **Dean’s Entry Scholarship**, **Science Top of the State Scholarship**, **Sydney Scholars Award**  
+  - **Dalyell Scholar**, **Dean’s Entry Scholarship**, **Science Top of the State Scholarship**, **Sydney Scholars Award**, **Dean's List of Academic Achievement 2024**  
   - **Public Education Foundation Award**  
 
 ## Work Experience
