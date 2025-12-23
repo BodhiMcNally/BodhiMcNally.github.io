@@ -1,27 +1,16 @@
-# Pharmaceutical Sales Force Effectiveness Analyst | Data Scientist | Educator
+# Doctor of Medicine Student | Data Science & Healthcare Analytics | Ex-AstraZeneca | Educator
 
 #### Technical Skills: R, Python, SQL, Power BI, Power Query, Amazon Redshift, PostgreSQL, Advanced Excel (PivotTables, Macros/VBA), DAX, AWS, Salesforce, ArcGIS, Tableau, Jira, Confluence, Collibra, Git
 
 [Resume](https://github.com/BodhiMcNally/bodhi-resume/blob/main/Resume.pdf)
 
 ## Education
+- **Doctor of Medicine** (MD), University of Sydney (_2026 – 2029_)
 - **Bachelor of Science** (Data Science and Genetics & Genomics), The University of Sydney (_2022 – 2024_)  
   - **Dalyell Scholar**, **Dean’s Entry Scholarship**, **Science Top of the State Scholarship**, **Sydney Scholars Award**, **Dean's List of Academic Achievement 2024**  
   - **Public Education Foundation Award**  
 
 ## Work Experience
-
-### Junior Sales Force Effectiveness Analyst  
-**AstraZeneca**, Macquarie Park, NSW  
-_Apr 2025 – Present_  
-- Act as the central analytics partner to senior commercial leaders, providing timely and strategic insights across sales performance, HCP engagement and executional excellence metrics.  
-- Design, maintain and continuously improve automated dashboards and reporting tools using Power BI, SQL and PowerQuery.  
-- Architect and maintain end-to-end data pipelines using Amazon Redshift for high-volume querying, Python for automated ETL and workflow orchestration and R for statistical modelling.  
-- Own the integrity of commercial data pipelines by validating data sources (e.g. IQVIA, Nostra, Ex-Factory, PBS, Wholesaler) and ensuring consistency across enterprise platforms, informing decision-making for field performance, resourcing and patient access programs.  
-- Support and deliver key commercial initiatives including Sales Targeting, Incentive Design, Kicker Programs and Sales Champion Awards, ensuring structures are analytically grounded and aligned to regional performance goals.  
-- Drive adoption of SFE systems and analytical tools by delivering tailored training and ongoing support to internal stakeholders, enhancing the commercial acumen and digital fluency of field teams and head office personnel alike.  
-- Lead analytical contributions to strategic programs such as lead scoring, microjourney optimisation, customer segmentation, sampling activity and Veeva CRM insights, enabling precision engagement and improved ROI across omnichannel strategies.  
-- Support executive-level initiatives including business planning cycles, customer experience simplification, and meeting effectiveness, using hypothesis-driven reporting and longitudinal metrics to guide strategic refinement.  
 
 ### Casual Academic  
 **School of Mathematics and Statistics**, University of Sydney  
@@ -31,6 +20,21 @@ _Jan 2024 – Present_
 - Assessed major student projects with a focus on code readability, reproducibility, and analytical rigour, delivering clear and constructive feedback to support student learning and growth.  
 - Mentored junior demonstrators in teaching strategies, marking practices and classroom management – several of whom successfully progressed to tutor roles.  
 - Collaborated closely with the unit coordinator, lecturers and fellow tutors to maintain alignment across marking rubrics, lesson pacing and student support strategies.  
+
+### Junior Sales Force Effectiveness Analyst  
+**AstraZeneca**, Macquarie Park, NSW  
+_Apr 2025 – Jan 2026_  
+- Delivered end-to-end Sales Force Effectiveness support across Australia and New Zealand, partnering with Sales, Marketing and Commercial Excellence to strengthen targeting, execution and decision-making across a diversified pharmaceutical portfolio exceeding $250 million in annual revenue.
+- Delivered and automated customer segmentation and sales targeting processes across ANZ, including 35+ sales team–brand–indication combinations supporting annual sales cycles, in-year updates and new product launches.  
+- Supported multiple product launches by ensuring targeting logic, territory structures, reporting and incentives were correctly aligned ahead of launch milestones.  
+- Partnered with Sales leadership and Marketing to establish standardised segmentation definitions, lead scoring and prioritisation frameworks to focus field effort and improve ROI.  
+- Managed and validated Salesforce CRM downstream structures including territory hierarchies, sales markets and position management to ensure accurate alignment of customers, teams and reporting.  
+- Supported incentive and kicker programs by validating territory structures, targeting logic and performance inputs used in incentive calculations.  
+- Integrated and governed multiple enterprise data sources (including IQVIA, Nostra and PBS-derived datasets) to ensure consistency, accuracy and trust in commercial reporting and decision-making.  
+- Built and maintained scalable reporting and analytics solutions (SQL, Python, R, Power BI), delivering reproducible performance insights and proactively resolving data discrepancies.  
+- Designed geospatial analytics and interactive visualisation tools in R Shiny to support territory modelling, prioritisation and scenario planning.  
+- Delivered SFE system and reporting training to uplift analytical capability across the business.  
+- Acted as a trusted analytics partner to senior stakeholders and took on increased ownership during leadership leave periods, maintaining uninterrupted BAU delivery.  
 
 ### Key Account Manager (on behalf of AbbVie)  
 **DKSH Healthcare Australia**, Sydney, NSW  
